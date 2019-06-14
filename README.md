@@ -1,4 +1,5 @@
 # Master in Data Science: Final Project
+Laura Álvarez Mon, junio 2019
 
 Wine Recommender System
 
@@ -15,9 +16,9 @@ This project include the following phases:
 
 Content:
 
-- WineRecommenderSystem.ipynb
+- WineRecommenderSystem.ipynb:
 Includes the code in a Python Jupyter Notebook.
-- WineRecSys_Visualization.py
+- WineRecSys_Visualization.py:
 Includes the visualization code.
 - WineRecSystem_Memory.pdf
 - Data
