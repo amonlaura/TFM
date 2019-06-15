@@ -5,7 +5,7 @@ Wine Recommender System
 
 - The goal is to build a recommendation system using a list of wines.
 
-This project include the following phases:
+This project includes the following phases:
 
 - Business understanding
 - Data acquisition
